@@ -35,7 +35,7 @@
 //             <div className="main-logo section" id="main-logo">
 //               <a className="mobile-menu-toggle" href="javascript:;" role="button" title="Menu"></a>
 //               <a className="logo-img" href="https://community.efootball.fans/">
-//                 <img alt="eFootball Fans Community" data-height="100" data-width="468" src="https://blogger.googleusercontent.com/img/a/AVvXsEi5iywIjTB-g91aNVDbjJJODDTNgVFKI--F-A6HJxcNFPN0wPjHG_9O0MRy6EhsZGIwzVfXDrUEEN7SzJnZpFV577lmznGciftE3yxVaMr2Gr5Vp-dtax16vqwctrxkNmSGUl4RLLgwqDgFqdk0iUTB4EyXVy0bjF--ZDVpKQaAdo3FU2ybQfCItEYe8KDq=s252" title="eFootball Fans Community Blog" />
+//                 <img alt="eFootball Fans Community" data-height="100" data-width="468" src="https://resources.efootball.fans/images/logo/eFF_FullLogo_small.png" title="eFootball Fans Community Blog" />
 //                 <h1 id="h1-off">eFootball Fans Community</h1>
 //               </a>
 //             </div>
@@ -160,7 +160,7 @@ const Header = () => {
           <div className="flex items-center">
             <a href="/" className="flex items-center">
               <img
-                src="https://blogger.googleusercontent.com/img/a/AVvXsEi5iywIjTB-g91aNVDbjJJODDTNgVFKI--F-A6HJxcNFPN0wPjHG_9O0MRy6EhsZGIwzVfXDrUEEN7SzJnZpFV577lmznGciftE3yxVaMr2Gr5Vp-dtax16vqwctrxkNmSGUl4RLLgwqDgFqdk0iUTB4EyXVy0bjF--ZDVpKQaAdo3FU2ybQfCItEYe8KDq=s252"
+                src="https://resources.efootball.fans/images/logo/eFF_FullLogo_small.png"
                 alt="eFootball Fans Official"
                 className="h-8 lg:h-12 w-auto"
               />

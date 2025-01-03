@@ -9,7 +9,7 @@ const Footer = () => {
                     <div className="flex-1 max-w-2xl">
                         <a href="https://blog.efootball.fans" className="inline-block mb-6">
                             <img
-                                src="https://blogger.googleusercontent.com/img/a/AVvXsEjWAW4tOZrKnLbgfbgkEQbq27ZBFvjiuPCz4CHtRsgR6l7jutO7R1Vb7oPFtCdwsx4hMxSsM7lUPq_KgvBJWpANQHfkMJbDxeNLi4jmURu6xnJsR6RjkotR3xdL2kDx9sdkciJD5MEB3zCRVfmoj2shz8WM1xRvG2C__ZDd6mKTR7T4OJVrnlQu9ABChZf9=s960"
+                                src="https://resources.efootball.fans/images/logo/eFF_FullLogo_small.png"
                                 alt="eFootball Fans Blog"
                                 className="h-12 object-contain"
                             />

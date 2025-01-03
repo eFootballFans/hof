@@ -112,7 +112,7 @@ const getTournamentSizeCategory = (participantCount) => {
         <header className="bg-gray-800/60 p-6 shadow-lg">
           <div className="container mx-auto">
             {/* <img 
-              src="https://blogger.googleusercontent.com/img/a/AVvXsEi5iywIjTB-g91aNVDbjJJODDTNgVFKI--F-A6HJxcNFPN0wPjHG_9O0MRy6EhsZGIwzVfXDrUEEN7SzJnZpFV577lmznGciftE3yxVaMr2Gr5Vp-dtax16vqwctrxkNmSGUl4RLLgwqDgFqdk0iUTB4EyXVy0bjF--ZDVpKQaAdo3FU2ybQfCItEYe8KDq=s252" 
+              src="https://resources.efootball.fans/images/logo/eFF_FullLogo_small.png" 
               alt="eFootball.Fans Hall Of Fame" 
               className="h-20 w-auto mx-auto"
             /> */}
